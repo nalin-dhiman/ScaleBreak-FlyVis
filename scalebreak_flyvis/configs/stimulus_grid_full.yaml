@@ -1,0 +1,19 @@
+out_dir: scalebreak_flyvis/outputs/stimuli/full
+height: 64
+width: 64
+n_frames: 30
+fps: 30
+shapes: [disk, square, triangle, bar, annulus]
+scales: [2, 3, 4, 6, 8, 12, 16, 24, 32]
+contrasts: [1.0, 0.6, 0.3]
+motions: [static, translate, loom]
+repeats: 50
+backgrounds: [blank, noise]
+blur_sigmas: [0.0, 0.75, 1.5]
+velocity_x: 0.35
+velocity_y: 0.0
+expansion_rate: 0.02
+position_x: 32
+position_y: 32
+orientations: [0.0, 45.0, 90.0]
+seed: 42

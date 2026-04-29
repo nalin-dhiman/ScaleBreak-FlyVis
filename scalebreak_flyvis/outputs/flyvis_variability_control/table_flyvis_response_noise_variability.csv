@@ -1,0 +1,10 @@
+variant,noise_fraction_of_feature_std,seed,accuracy
+response_noise_0,0.0,42,0.9236111111111112
+response_noise_0,0.0,84,0.9236111111111112
+response_noise_0,0.0,96,0.9236111111111112
+response_noise_0.01,0.01,42,0.9572916666666667
+response_noise_0.01,0.01,84,0.95625
+response_noise_0.01,0.01,96,0.9322916666666666
+response_noise_0.05,0.05,42,0.9392361111111112
+response_noise_0.05,0.05,84,0.9402777777777778
+response_noise_0.05,0.05,96,0.9357638888888888

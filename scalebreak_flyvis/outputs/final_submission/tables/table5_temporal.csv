@@ -1,0 +1,10 @@
+feature_variant,accuracy,ci_low,ci_high,n
+middle_33_66pct,0.986,0.982,0.99,2880
+full_time_peak,0.983,0.978,0.987,2880
+late_66_100pct,0.983,0.978,0.987,2880
+full_time_mean,0.972,0.965,0.977,2880
+temporal_bins_11,0.958,0.951,0.966,2880
+onset_peak_window,0.931,0.921,0.939,2880
+temporal_bins_5,0.924,0.913,0.933,2880
+early_0_33pct,0.191,0.175,0.205,2880
+early_0_20pct,0.167,0.157,0.179,2880

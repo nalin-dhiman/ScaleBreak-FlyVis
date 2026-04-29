@@ -1,0 +1,9 @@
+split,test_scale,accuracy_mean,accuracy_std
+leave_one_scale_out_train_all_other_scales,2.0,0.6111111111111112,0.06804138174397716
+leave_one_scale_out_train_all_other_scales,3.0,0.5611111111111111,0.030429030972509215
+leave_one_scale_out_train_all_other_scales,4.0,0.611111111111111,0.05196746370519361
+leave_one_scale_out_train_all_other_scales,6.0,0.5111111111111111,0.046481112585226476
+leave_one_scale_out_train_all_other_scales,8.0,0.6722222222222223,0.06334307917217434
+leave_one_scale_out_train_all_other_scales,12.0,0.5944444444444444,0.0421270858002864
+leave_one_scale_out_train_all_other_scales,16.0,0.7055555555555555,0.1529039882724765
+leave_one_scale_out_train_all_other_scales,24.0,0.6,0.0847108371220939

@@ -1,0 +1,10 @@
+| model                         | training                                          | readout           | notes                                                                                            |
+|:------------------------------|:--------------------------------------------------|:------------------|:-------------------------------------------------------------------------------------------------|
+| FlyVis                        | pretrained flow/0000/000                          | linear probe      | central cell responses                                                                           |
+| TemporalResNet18Small         | AdamW, lr 3e-4, weight decay 1e-4, early stopping | native classifier | 10 temporal summary channels                                                                     |
+| pixel                         | none                                              | linear probe      | retinal/pixel baseline                                                                           |
+| local RNN                     | fixed random                                      | linear probe      | local retinotopic recurrent baseline                                                             |
+| optic-lobe graph controls     | fixed rate proxy                                  | linear probe      | not FlyVis; structural debug controls                                                            |
+| STN-CNN                       | AdamW, lr 1e-3, one seed, 8 epochs                | native classifier | identity-initialized affine spatial transformer; 24x24 hex-to-grid; 10 temporal summary channels |
+| Hex-native temporal model     | AdamW, one seed, 10 epochs                        | native classifier | raw (T,721) input; six-neighbor message passing; temporal 1D convolutions                        |
+| FlyVis response-noise variant | no retraining                                     | linear probe      | small Gaussian feature perturbation; diagnostic, not a separate checkpoint                       |

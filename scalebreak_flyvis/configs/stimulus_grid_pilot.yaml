@@ -1,0 +1,18 @@
+out_dir: scalebreak_flyvis/outputs/stimuli/pilot
+height: 64
+width: 64
+n_frames: 30
+fps: 30
+shapes: [disk, square, triangle, bar]
+scales: [2, 3, 4, 6, 8, 12, 16, 24]
+contrasts: [1.0, 0.3]
+motions: [static, translate]
+repeats: 20
+backgrounds: [blank]
+blur_sigmas: [0.0]
+velocity_x: 0.35
+velocity_y: 0.0
+position_x: 32
+position_y: 32
+orientations: [0.0]
+seed: 42

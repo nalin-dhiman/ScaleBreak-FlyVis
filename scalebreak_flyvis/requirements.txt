@@ -1,0 +1,22 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pyyaml
+tqdm
+networkx
+h5py
+zarr
+pyarrow
+statsmodels
+joblib
+torch
+torchvision
+pytest
+
+# Optional, guarded in code.
+flyvis
+umap-learn
+wandb

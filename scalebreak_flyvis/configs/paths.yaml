@@ -1,0 +1,13 @@
+connectome_data_dir: /home/ub/codes/My_published_projects/Flow-concentration-and-structural-fragility-in-spatially-embedded-directed-networks/optic-lobe-v1.1-neuprint-tables
+outputs_dir: scalebreak_flyvis/outputs
+audit_json: scalebreak_flyvis/outputs/audits/schema_report.json
+type_edges: scalebreak_flyvis/outputs/connectome/type_edges.parquet
+stimuli_dir: scalebreak_flyvis/outputs/stimuli/pilot
+activations_dir: scalebreak_flyvis/outputs/activations
+features_dir: scalebreak_flyvis/outputs/features
+probes_dir: scalebreak_flyvis/outputs/probes
+rsa_cka_dir: scalebreak_flyvis/outputs/rsa_cka
+breakpoints_dir: scalebreak_flyvis/outputs/breakpoints
+controls_dir: scalebreak_flyvis/outputs/controls
+figures_dir: scalebreak_flyvis/outputs/figures
+tables_dir: scalebreak_flyvis/outputs/tables

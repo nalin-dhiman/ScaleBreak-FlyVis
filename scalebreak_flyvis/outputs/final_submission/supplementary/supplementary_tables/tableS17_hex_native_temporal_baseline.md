@@ -1,0 +1,3 @@
+| model                     |   mean_offdiag_accuracy |   std |   ci_low |   ci_high |   flyvis_accuracy |   flyvis_minus_model |   n_seeds |
+|:--------------------------|------------------------:|------:|---------:|----------:|------------------:|---------------------:|----------:|
+| Hex-native temporal model |                       1 |     0 |        1 |         1 |             0.924 |               -0.076 |         1 |

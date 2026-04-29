@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]",
+  "platform": "Linux-6.17.0-22-generic-x86_64-with-glibc2.39",
+  "stimuli_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/stimuli/stimuli.npy",
+  "metadata_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/responses/metadata.csv",
+  "coords_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/stimuli/hex_coordinates.csv",
+  "stimulus_shape": [
+    4320,
+    165,
+    1,
+    721
+  ],
+  "input_tensor_shape": [
+    4320,
+    10,
+    24,
+    24
+  ],
+  "elapsed_seconds": 35.90743446350098,
+  "args": {
+    "outputs_dir": "scalebreak_flyvis/outputs",
+    "out_dir": "scalebreak_flyvis/outputs/stn_cnn_baseline",
+    "seeds": "42",
+    "epochs": 8,
+    "batch_size": 128,
+    "lr": 0.0005,
+    "weight_decay": 0.0001,
+    "patience": 3,
+    "grid_size": 24,
+    "dropout": 0.2
+  }
+}

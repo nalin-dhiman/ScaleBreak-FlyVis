@@ -1,0 +1,13 @@
+claim,status
+robust_dynamic_scale_generalization_in_flyvis,True
+evidence_for_flyvis_model_specificity,True
+evidence_for_exact_connectome_necessity,not established
+physical_distance_claim,False
+generic_object_recognition_claim,False
+static_shape_claim_strength,secondary / weak-control
+dynamic_direction_claim_strength,strong
+connectome_causality_claim_strength,not established
+strong_trained_vision_control_status,FlyVis remains higher than manuscript-grade trained CNN control
+serious_cnn_accuracy,0.6083333333333334
+serious_cnn_ci,"[0.6007621527777778, 0.6164583333333333]"
+connectome_causality_max_drop_vs_flyvis,0.0

@@ -1,0 +1,4 @@
+baseline,features,normalization_decoder,interpretation
+pixel,mean frame flattened; max frame flattened; mean absolute temporal difference; temporal-difference standard deviation; total stimulus energy,StandardScaler inside the logistic-regression probe,Strong non-neural baseline with access to raw retinal movie summaries and simple temporal-difference statistics.
+nuisance area/contrast/energy,area_pixels; edge_length_pixels; contrast,StandardScaler inside the logistic-regression probe,Tests whether decoding is explained by scalar stimulus size/edge/contrast metadata rather than representation.
+TemporalResNet18Small,"10 hex-to-grid temporal channels: five frames, mean frame, max frame, early-middle difference, middle-late difference, motion energy",trained end-to-end classifier after deterministic 24x24 hex-to-grid projection,Manuscript-grade trained artificial-vision control; projection may lose hex-native information.

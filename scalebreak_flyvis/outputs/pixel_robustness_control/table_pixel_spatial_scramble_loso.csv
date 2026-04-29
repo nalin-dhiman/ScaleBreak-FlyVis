@@ -1,0 +1,17 @@
+control,heldout_scale,accuracy,n_test
+original_pixel,2.0,0.6666666666666666,360
+original_pixel,3.0,0.6666666666666666,360
+original_pixel,4.0,0.6666666666666666,360
+original_pixel,6.0,0.5,360
+original_pixel,8.0,0.5,360
+original_pixel,12.0,0.5,360
+original_pixel,16.0,1.0,360
+original_pixel,24.0,0.3333333333333333,360
+spatially_scrambled_pixel,2.0,0.18888888888888888,360
+spatially_scrambled_pixel,3.0,0.16111111111111112,360
+spatially_scrambled_pixel,4.0,0.13333333333333333,360
+spatially_scrambled_pixel,6.0,0.1638888888888889,360
+spatially_scrambled_pixel,8.0,0.16111111111111112,360
+spatially_scrambled_pixel,12.0,0.18611111111111112,360
+spatially_scrambled_pixel,16.0,0.18055555555555555,360
+spatially_scrambled_pixel,24.0,0.1527777777777778,360

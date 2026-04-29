@@ -1,0 +1,49 @@
+model,heldout_scale,accuracy,n_predictions,source
+CNN,2.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,3.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,4.0,0.3055555555555556,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,6.0,0.3055555555555556,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,8.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,12.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,16.0,0.5,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+CNN,24.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,2.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,3.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,4.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,6.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,8.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,12.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,16.0,0.9444444444444444,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+FlyVis,24.0,0.4444444444444444,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,2.0,0.3888888888888889,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,3.0,0.3888888888888889,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,4.0,0.4444444444444444,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,6.0,0.3611111111111111,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,8.0,0.3888888888888889,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,12.0,0.3611111111111111,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,16.0,0.3611111111111111,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+local RNN,24.0,0.3611111111111111,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,2.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,3.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,4.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,6.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,8.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,12.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,16.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+nuisance,24.0,0.16666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,2.0,0.6666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,3.0,0.6666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,4.0,0.6666666666666666,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,6.0,0.5,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,8.0,0.5,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,12.0,0.5,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,16.0,1.0,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+pixel,24.0,0.3333333333333333,360,scalebreak_flyvis/outputs/flyvis_pilot_v3/tables/direction_loso_predictions_all_models.csv
+TemporalResNet18Small,2.0,0.611111111111111,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,3.0,0.5611111111111111,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,4.0,0.611111111111111,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,6.0,0.5111111111111112,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,8.0,0.6722222222222222,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,12.0,0.5944444444444444,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,16.0,0.7055555555555556,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv
+TemporalResNet18Small,24.0,0.5999999999999999,5 seeds x 360 held-out trials,scalebreak_flyvis/outputs/serious_cnn_baseline/table_serious_cnn_by_seed_scale.csv

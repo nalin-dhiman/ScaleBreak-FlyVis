@@ -1,0 +1,5 @@
+```
+tensor,path,shape,dtype
+stimuli,scalebreak_flyvis/outputs/flyvis_pilot_v2/stimuli/stimuli.npy,"(4320, 165, 1, 721)",float32
+flyvis_central_responses,scalebreak_flyvis/outputs/flyvis_pilot_v2/responses/flyvis_central_cell_responses.npy,"(4320, 165, 65)",float32
+```

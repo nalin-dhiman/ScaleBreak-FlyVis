@@ -1,0 +1,5 @@
+| variant             |   noise_fraction_of_feature_std |   mean_accuracy |   min_accuracy |   max_accuracy |   n |
+|:--------------------|--------------------------------:|----------------:|---------------:|---------------:|----:|
+| response_noise_0    |                            0    |           0.924 |          0.924 |          0.924 |   3 |
+| response_noise_0.01 |                            0.01 |           0.949 |          0.932 |          0.957 |   3 |
+| response_noise_0.05 |                            0.05 |           0.938 |          0.936 |          0.94  |   3 |

@@ -1,0 +1,4 @@
+| control                       |   mean_loso_accuracy |
+|:------------------------------|---------------------:|
+| original_pixel_dynamic_subset |             0.604167 |
+| phase_scrambled_pixel         |             0.569097 |

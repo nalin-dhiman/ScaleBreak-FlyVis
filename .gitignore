@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.venv_flyvis/
+
+# Local data and heavy generated arrays
+scalebreak_flyvis/flyvis_data/
+scalebreak_flyvis/ScaleBreak_FlyVis_full_submission_draft/
+scalebreak_flyvis/**/*.npy
+scalebreak_flyvis/**/*.npz
+scalebreak_flyvis/**/*.zarr/
+scalebreak_flyvis/**/*.h5
+scalebreak_flyvis/**/*.hdf5
+scalebreak_flyvis/**/*.parquet
+scalebreak_flyvis/**/*.feather
+scalebreak_flyvis/**/*.pt
+scalebreak_flyvis/**/*.pth
+scalebreak_flyvis/**/*.ckpt
+
+# Large/raw output folders that should be regenerated locally
+scalebreak_flyvis/outputs/activations/
+scalebreak_flyvis/outputs/features/
+scalebreak_flyvis/outputs/stimuli/
+scalebreak_flyvis/outputs/flyvis_pilot_v2/
+scalebreak_flyvis/outputs/flyvis_pilot_v3/
+scalebreak_flyvis/outputs/flyvis_pilot_v4/
+scalebreak_flyvis/outputs/connectome/
+
+# Keep result tables and figures, but not checkpoints.
+scalebreak_flyvis/outputs/**/checkpoints/
+scalebreak_flyvis/outputs/**/predictions_*.csv
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+
