@@ -1,7 +1,7 @@
 {
   "status": "completed",
   "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]",
-  "platform": "Linux-6.17.0-22-generic-x86_64-with-glibc2.39",
+  "platform": "cosmos",
   "stimuli_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/stimuli/stimuli.npy",
   "metadata_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/responses/metadata.csv",
   "coords_path": "scalebreak_flyvis/outputs/flyvis_pilot_v2/stimuli/hex_coordinates.csv",
